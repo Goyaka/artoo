@@ -15,11 +15,12 @@
   },
 
   "dependencies": {
+    "coffee-script": "1.1.1",
     "hubot-irc": ">= 0.0.1",
     "hubot": "2.2.0",
     "hubot-scripts": ">=2.0.8",
     "optparse": "1.0.3",
-    "coffee-rails": ">= 3.2.2"
+    "coffee": ">= 3.2.2"
   },
 
   "engines": {
